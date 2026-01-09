@@ -1,0 +1,14 @@
+{
+  "name": "filmfanaticzone-bot",
+  "version": "1.0.0",
+  "description": "FilmFanaticZone Telegram Bot on Cloudflare Workers",
+  "main": "index.js",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler publish"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  }
+}
