@@ -1,4 +1,4 @@
-name = "filmfanaticzone-bot"
+name = "fct"
 main = "index.js"
 compatibility_date = "2024-01-01"
 compatibility_flags = ["nodejs_compat"]
@@ -7,24 +7,15 @@ compatibility_flags = ["nodejs_compat"]
 BOT_TOKEN = "8192872982:AAEg-FFpyGXWgrIqEIFcCgNYeNq389rGU90"
 ADMIN_ID = "8314195743"
 ADMIN_NAME = "Sk Sahil"
-ADMIN_LANG = "en"
 
 [[kv_namespaces]]
 binding = "USERS_KV"
 id = "0c2fc24df4d44c70a4ce338d5f719be7"
-preview_id = "0c2fc24df4d44c70a4ce338d5f719be7"
 
 [[kv_namespaces]]
 binding = "MOVIES_KV"
 id = "0c2fc24df4d44c70a4ce338d5f719be7"
-preview_id = "0c2fc24df4d44c70a4ce338d5f719be7"
 
 [[kv_namespaces]]
 binding = "REQUESTS_KV"
 id = "0c2fc24df4d44c70a4ce338d5f719be7"
-preview_id = "0c2fc24df4d44c70a4ce338d5f719be7"
-
-[[kv_namespaces]]
-binding = "CATEGORIES_KV"
-id = "0c2fc24df4d44c70a4ce338d5f719be7"
-preview_id = "0c2fc24df4d44c70a4ce338d5f719be7"
